@@ -10,7 +10,7 @@ def test_send_mail1(setup): #collecting ... collected 1 item
     #1 passed in 0.01s
     print('Message have been sent')
 
-def test_send_mail2(set_up):
+def test_send_mail2(setup):
     print('Message have been sent')
 
 '''

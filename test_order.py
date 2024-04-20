@@ -1,19 +1,19 @@
-def method1(setup, set_up):
+def method1(setup):
     print('Message have been sent')
 
-def method2(set_up, setup):
+def method2(setup):
     print('Message have been sent')
 
-def method3(set_up, setup):
+def method3(setup):
     print('Message have been sent')
 
-def method4(set_up, setup):
+def method4(setup):
     print('Message have been sent')
 
-def method5(set_up, setup):
+def method5(setup):
     print('Message have been sent')
 
-def method6(set_up, setup):
+def method6(setup):
     print('Message have been sent')
 
 #pytest -s -v test_order.py
